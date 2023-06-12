@@ -1,9 +1,9 @@
 // PROMPT
-let firstName = prompt('Inserisci il tuo nome');
+const firstName = prompt('Inserisci il tuo nome');
 
-let surname = prompt('Inserisci il tuo cognome');
+const surname = prompt('Inserisci il tuo cognome');
 
-let color = prompt('Inserisci il tuo colore preferito');
+const color = prompt('Inserisci il tuo colore preferito');
 
 
 // DATI IN HTML
